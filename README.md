@@ -1,9 +1,11 @@
-# Intelligent Excuse Generator  
-### *With Emergency Alerts, Voice Output, PDF Proofs, Auto Scheduling, and Smart Ranking*
+# Intelligent Excuse Generator
+
+### _With Emergency Alerts, Voice Output, PDF Proofs, Auto Scheduling, and Smart Ranking_
 
 ---
 
-## 📌 Project Overview  
+## Project Overview
+
 The **Intelligent Excuse Generator** is a backend-driven AI solution built with **FastAPI** that intelligently creates contextual and language-specific excuses for real-life situations. It incorporates advanced features such as:
 
 - Real-time **emergency alert triggering**
@@ -14,7 +16,8 @@ The **Intelligent Excuse Generator** is a backend-driven AI solution built with 
 
 ---
 
-## ⚙️ Technologies Used
+## Technologies Used
+
 - **Python 3.12**
 - **FastAPI** – API framework
 - **Uvicorn** – ASGI server
@@ -27,7 +30,8 @@ The **Intelligent Excuse Generator** is a backend-driven AI solution built with 
 
 ---
 
-## 📁 Project Structure
+## Project Structure
+
 ```bash
 intelligent_excuse_backend/ app/
 ├── main.py          # FastAPI entry point
@@ -48,11 +52,10 @@ intelligent_excuse_backend/ app/
 └── README.md
 ```
 
-
-
 ---
 
-## 🌟 Key Features
+## Key Features
+
 1. **AI-Powered Excuse Generation**
 2. **Automated Scheduling via APScheduler**
 3. **Emergency Alert System** (Text or Voice)
@@ -63,28 +66,20 @@ intelligent_excuse_backend/ app/
 
 ---
 
-## 📡 Sample API Requests
+## Sample API Requests
 
-### 📬 Using Postman to Test the API
+### Using Postman to Test the API
 
 Follow these steps to interact with your backend using Postman:
 
-✅ Step 1: Start the Server
-Run this in your terminal:
+### Step 1: Download Postman App fron here-->https://www.postman.com/downloads/
 
-```bash
+### Step 2: Make Requests in Postman
+-->  After Login Click on my workplace
+-->  Then go to new
+-->  follow below steps for diffrent scenario
 
-uvicorn app.main:app --reload
-The API will be running at:
-👉 http://127.0.0.1:8000
-
-You can also test endpoints visually here:
-👉 http://127.0.0.1:8000/docs
-```
-
-### 🚀 Step 2: Make Requests in Postman
-
-🔹 1. Generate an Excuse
+### 1.  Generate an Excuse
 
 Method: POST
 
@@ -93,22 +88,23 @@ URL: http://127.0.0.1:8000/generate_excuse/
 Body → raw → JSON
 
 ```json
-
 {
   "scenario": "I missed my exam due to health issues",
   "urgency": "high",
   "language": "en"
 }
 ```
+
 ```json
-✅ Response:
+ Response:
 {
   "excuse": "I was sick and couldn’t make it to the exam.",
   "proof_file": "proofs/proof_2025-05-12_16-10-23.pdf",
   "audio_file": "audio/excuse_2025-05-12_16-10-23.mp3"
 }
 ```
-### 🔹 2. Trigger Emergency
+
+### 2. Trigger Emergency
 
 Method: POST
 
@@ -117,45 +113,46 @@ URL: http://127.0.0.1:8000/trigger-emergency/
 Body → raw → JSON
 
 ```json
-
 {
   "method": "text",
   "description": "My leg was injured from falling"
 }
 ```
 
-##🚀 How to Run
-
-**`Create a virtual environment`**
+## How to Run
 
 ```bash
+Create a virtual environment
 python -m venv venv
 source venv/bin/activate  # Windows: venv\Scripts\activate
+```
+
+```bash
 Install dependencies
-```
-
-```bash
-
 pip install -r requirements.txt
+```
+### download Ollama from here-->https://ollama.com/download/windows
+
+```bash
 Start Ollama with LLaMA2
-```
-
-```bash
 ollama run llama2
-Run FastAPI server
+
 ```
 
 ```bash
+Run FastAPI server
 uvicorn app.main:app --reload
+
+The API will be running at:
+ http://127.0.0.1:8000 --reload
 ```
 
-### 🔹 Access API Docs
+### Access API Docs
 
 Open your browser and go to: http://127.0.0.1:8000/docs
 
 ---
 
-## 📝 Final Note
+## Final Note
 
 This project simulates intelligent excuse automation with real-world applicability. From contextual excuse generation to automated scheduling and emergency responses, it showcases a robust backend AI system that blends functionality with innovation.
-
