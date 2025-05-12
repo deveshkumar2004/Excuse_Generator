@@ -65,24 +65,65 @@ intelligent_excuse_backend/ app/
 
 ## 📡 Sample API Requests
 
-### 🔹Generate Excuse  
-**`[POST] /generate_excuse/`**  
+### 📬 Using Postman to Test the API
+
+Follow these steps to interact with your backend using Postman:
+
+✅ Step 1: Start the Server
+Run this in your terminal:
+
+```bash
+
+uvicorn app.main:app --reload
+The API will be running at:
+👉 http://127.0.0.1:8000
+
+You can also test endpoints visually here:
+👉 http://127.0.0.1:8000/docs
+```
+
+### 🚀 Step 2: Make Requests in Postman
+
+🔹 1. Generate an Excuse
+
+Method: POST
+
+URL: http://127.0.0.1:8000/generate_excuse/
+
+Body → raw → JSON
+
 ```json
+
 {
-  "scenario": "I was late for class",
+  "scenario": "I missed my exam due to health issues",
   "urgency": "high",
   "language": "en"
 }
 ```
-###🔹Trigger Emergency Alert
-
-**`[POST] /trigger-emergency/`**
 ```json
+✅ Response:
+{
+  "excuse": "I was sick and couldn’t make it to the exam.",
+  "proof_file": "proofs/proof_2025-05-12_16-10-23.pdf",
+  "audio_file": "audio/excuse_2025-05-12_16-10-23.mp3"
+}
+```
+### 🔹 2. Trigger Emergency
+
+Method: POST
+
+URL: http://127.0.0.1:8000/trigger-emergency/
+
+Body → raw → JSON
+
+```json
+
 {
   "method": "text",
   "description": "My leg was injured from falling"
 }
 ```
+
 ##🚀 How to Run
 
 **`Create a virtual environment`**
