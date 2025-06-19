@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+requests
+gtts
+reportlab
+transformers
+torch
+pydantic
+python-dotenv
+apscheduler
+langdetect
+googletrans==4.0.0rc1
+pydub
+sentencepiece
+SQLAlchemy
+sacremoses
+tf-keras

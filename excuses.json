@@ -1,0 +1,159 @@
+[
+    {
+        "scenario": "Missed class",
+        "urgency": "low",
+        "timestamp": "2025-05-10T10:00:00"
+    },
+    {
+        "scenario": "Overslept",
+        "urgency": "moderate",
+        "timestamp": "2025-05-11T10:15:00"
+    },
+    {
+        "scenario": "I missed the team meeting due to internet issues",
+        "urgency": "high",
+        "excuse": "Unfortunately, I was unable to attend the team meeting today due to internet issues. My connection kept dropping and I wasn't able to access the virtual platform. Despite my best efforts, I couldn't get it working in time for the meeting.",
+        "timestamp": "2025-05-11T17:27:54.453895"
+    },
+    {
+        "scenario": "I missed the team meeting due to internet issues",
+        "urgency": "high",
+        "excuse": "Unfortunately, I was unable to attend the team meeting today due to internet issues. The connection kept dropping and I was unable to access the virtual platform. Despite my best efforts, I couldn't resolve the issue in time for the meeting.",
+        "timestamp": "2025-05-11T17:28:58.409911"
+    },
+    {
+        "scenario": "I missed the team meeting due to internet issues",
+        "urgency": "high",
+        "excuse": "\u0926\u0941\u0903\u0916 \u0915\u0940 \u092c\u093e\u0924 \u0939\u0948 \u0915\u093f \u0906\u091c \u092e\u0948\u0902 \u0907\u0902\u091f\u0930\u0928\u0947\u091f \u0907\u0902\u091f\u0930\u0928\u0947\u091f \u0907\u0902\u091f\u0930\u0928\u0947\u091f \u0938\u0947 \u091c\u0941\u0921\u093c\u0947 \u092e\u0941\u0926\u094d\u0926\u094b\u0902 \u0915\u0947 \u0915\u093e\u0930\u0923 \u091f\u0940\u092e \u0938\u092d\u093e \u092e\u0947\u0902 \u0909\u092a\u0938\u094d\u0925\u093f\u0924 \u0939\u094b\u0928\u0947 \u092e\u0947\u0902 \u0905\u0938\u092e\u0930\u094d\u0925 \u0925\u093e \u0964",
+        "timestamp": "2025-05-11T17:29:30.336705"
+    },
+    {
+        "scenario": "I missed the team meeting due to internet issues",
+        "urgency": "high",
+        "excuse": "\u0926\u0941\u0903\u0916 \u0915\u0940 \u092c\u093e\u0924 \u0939\u0948 \u0915\u093f \u0906\u091c \u092e\u0948\u0902 \u0907\u0902\u091f\u0930\u0928\u0947\u091f \u0938\u0947 \u091c\u0941\u0921\u093c\u0947 \u092e\u0941\u0926\u094d\u0926\u094b\u0902 \u0915\u0947 \u0915\u093e\u0930\u0923 \u091f\u0940\u092e \u0938\u092d\u093e \u092e\u0947\u0902 \u0909\u092a\u0938\u094d\u0925\u093f\u0924 \u0939\u094b\u0928\u0947 \u092e\u0947\u0902 \u0905\u0938\u092e\u0930\u094d\u0925 \u0925\u093e. \u092e\u0947\u0930\u0947 \u0907\u0902\u091f\u0930\u0928\u0947\u091f \u0938\u0947\u0935\u093e \u092e\u093e\u0932\u093f\u0915 \u0924\u0915\u0928\u0940\u0915\u0940 \u0915\u0920\u093f\u0928\u093e\u0907\u092f\u094b\u0902 \u0915\u093e \u0905\u0928\u0941\u092d\u0935 \u0915\u0930 \u0930\u0939\u0947 \u0939\u0948\u0902, \u091c\u094b \u092e\u0941\u091d\u0947 \u0935\u0940\u0921\u093f\u092f\u094b \u0938\u092e\u094d\u092e\u0947\u0932\u0928 \u092e\u0947\u0902 \u0936\u093e\u092e\u093f\u0932 \u0939\u094b\u0928\u0947 \u0938\u0947 \u0930\u094b\u0915\u093e \u0917\u092f\u093e. \u0907\u0938 \u092e\u093e\u092e\u0932\u0947 \u0915\u094b \u0938\u0941\u0932\u091d\u093e\u0928\u0947 \u0915\u0947 \u0932\u093f\u090f \u092e\u0947\u0930\u0940 \u0905\u091a\u094d\u091b\u0940 \u0915\u094b\u0936\u093f\u0936\u094b\u0902 \u0915\u0947 \u092c\u093e\u0935\u091c\u0942\u0926, \u092f\u0939 \u092c\u0948\u0920\u0915 \u0915\u0947 \u092a\u0942\u0930\u0947 \u0938\u092e\u092f \u0924\u0915 \u091c\u093e\u0930\u0940 \u0930\u0939\u093e.",
+        "timestamp": "2025-05-11T18:00:01.295997"
+    },
+    {
+        "scenario": "I missed the team meeting due to internet issues",
+        "urgency": "high",
+        "excuse": "Unfortunately, I was unable to attend the team meeting today due to internet issues that prevented me from logging in and participating via video conference. Despite my best efforts to troubleshoot the problem, I was unable to resolve it in time for the meeting. I will make sure to catch up on any important discussions or action items as soon as possible.",
+        "timestamp": "2025-05-11T18:00:59.045185"
+    },
+    {
+        "scenario": "I missed the team meeting due to internet issues",
+        "urgency": "high",
+        "excuse": "Unfortunately, I couldn't make it to the team meeting today as my internet connection was down and I couldn't access the virtual platform. I tried to troubleshoot the issue but wasn't able to get online in time.",
+        "timestamp": "2025-05-11T18:02:22.740181"
+    },
+    {
+        "scenario": "I missed the team meeting due to internet issues",
+        "urgency": "high",
+        "excuse": "Unfortunately, I was unable to attend the team meeting today due to internet connectivity issues. The signal kept dropping and I wasn't able to access the virtual platform.",
+        "timestamp": "2025-05-11T18:07:41.347956"
+    },
+    {
+        "scenario": "I missed the team meeting due to internet issues",
+        "ranked": 0,
+        "urgency": "high",
+        "excuse": "Unfortunately, I was unable to attend the team meeting today due to internet issues that prevented me from accessing the virtual platform. Despite my best efforts, I was unable to resolve the issue in time.",
+        "timestamp": "2025-05-11T18:10:07.916020"
+    },
+    {
+        "scenario": "I missed the team meeting due to internet issues",
+        "ranked": 7,
+        "urgency": "high",
+        "excuse": "Unfortunately, I couldn't attend the team meeting today as my internet connection went down unexpectedly and I was unable to join the call.",
+        "timestamp": "2025-05-11T18:31:25.514038"
+    },
+    {
+        "scenario": "I had  forgeeting to do task",
+        "ranked": 5,
+        "urgency": "low",
+        "excuse": "Oh no, I completely forgot about that task. It totally slipped my mind.",
+        "timestamp": "2025-05-11T18:32:40.762825"
+    },
+    {
+        "scenario": "I couldn't attend the class today",
+        "ranked": 5,
+        "urgency": "moderate",
+        "excuse": "Sure, here is a short and realistic excuse for missing class:\n\n\"I had a family emergency that I needed to attend to.",
+        "timestamp": "2025-05-11T18:39:12.883069"
+    },
+    {
+        "scenario": "I couldn't attend the class today",
+        "ranked": 7,
+        "urgency": "moderate",
+        "excuse": "Unfortunately, I was unable to attend class today due to a personal family emergency that arose unexpectedly.",
+        "timestamp": "2025-05-11T18:41:29.678526"
+    },
+    {
+        "scenario": "I couldn't attend the class today",
+        "ranked": 3,
+        "urgency": "moderate",
+        "excuse": "\u0926\u0941\u0930\u094d\u092d\u093e\u0917\u094d\u092f \u0938\u0947, \u092e\u0948\u0902 \u0906\u091c \u0915\u094d\u0932\u093e\u0938 \u092f\u093e\u0926 \u0915\u093f\u092f\u093e \u0939\u0948... ... \u092e\u0948\u0902 \u090f\u0915 \u092a\u0930\u093f\u0935\u093e\u0930 \u0906\u092a\u093e\u0924\u0915\u093e\u0932\u0940\u0928 \u0925\u093e \u0915\u093f \u092b\u093f\u0930 \u0938\u0947 \u092c\u0939\u093e\u0932 \u0928\u0939\u0940\u0902 \u0915\u093f\u092f\u093e \u091c\u093e \u0938\u0915\u0924\u093e \u0939\u0948.",
+        "timestamp": "2025-05-11T18:41:54.275328"
+    },
+    {
+        "scenario": "I was late due to traffic congestion",
+        "ranked": 2,
+        "urgency": "high",
+        "excuse": "Traffic congestion caused my delay.",
+        "timestamp": "2025-05-12T17:32:05.879283"
+    },
+    {
+        "scenario": "I was late due to traffic congestion",
+        "ranked": 5,
+        "urgency": "high",
+        "excuse": "Traffic jam on the way to work, couldn't avoid it. Lost 30 minutes in standstill.",
+        "timestamp": "2025-05-12T17:32:23.323136"
+    },
+    {
+        "scenario": "I was late due to traffic congestion",
+        "ranked": 5,
+        "urgency": "high",
+        "excuse": "\u0939\u0930 \u091c\u0917\u0939 \u0926\u0941\u0930\u094d\u0918\u091f\u0928\u093e\u0913\u0902 \u0914\u0930 \u0938\u0921\u093c\u0915 \u092a\u0930 \u092d\u093e\u0930\u0940 \u0917\u093f\u0930\u093e\u0935\u091f \u0925\u0940, \u091c\u093f\u0938\u0938\u0947 \u092c\u0921\u093c\u0940 \u0926\u0947\u0930 \u0939\u094b \u0930\u0939\u0940 \u0925\u0940 \u0964",
+        "timestamp": "2025-05-12T17:46:07.311845"
+    },
+    {
+        "scenario": "I was late due to traffic congestion",
+        "ranked": 2,
+        "urgency": "high",
+        "excuse": "\u091f\u094d\u0930\u0948\u092b\u093f\u0915 \u0915\u093e\u092e \u0915\u0930\u0928\u0947 \u0915\u0947 \u0932\u093f\u090f \u092e\u0947\u0930\u0947 \u0930\u093e\u0938\u094d\u0924\u0947 \u092a\u0930 \u090f\u0915 \u0936\u094b\u0937\u0923 \u0925\u093e. \u0938\u0921\u093c\u0915\u0947\u0902 \u0927\u0940\u092e\u0940 \u0917\u093e\u0921\u093c\u093f\u092f\u094b\u0902 \u0915\u0947 \u0938\u093e\u0925 \u091a\u093f\u092a\u0915\u0940 \u0939\u0941\u0908 \u0925\u0940\u0902 \u0914\u0930 \u0930\u093e\u0938\u094d\u0924\u0947 \u092e\u0947\u0902 \u0915\u0908 \u0926\u0941\u0930\u094d\u0918\u091f\u0928\u093e\u0913\u0902 \u0915\u0947 \u092c\u093e\u0935\u091c\u0942\u0926 \u0915\u0908 \u0926\u0941\u0930\u094d\u0918\u091f\u0928\u093e\u0913\u0902 \u0915\u0947 \u092c\u093e\u0935\u091c\u0942\u0926, \u092e\u0948\u0902 \u0905\u092c \u092d\u0940 \u0926\u0947\u0930 \u0938\u0947 \u091a\u0932 \u0930\u0939\u093e \u0925\u093e.",
+        "timestamp": "2025-05-12T17:47:53.451449"
+    },
+    {
+        "scenario": "I was late due to traffic congestion",
+        "ranked": 5,
+        "urgency": "high",
+        "excuse": "\u0938\u0921\u093c\u0915\u094b\u0902 \u092a\u0930 \u0917\u094d\u0930\u093f\u0921 \u0932\u0917\u093e \u0939\u0941\u0906 \u0925\u093e \u0914\u0930 \u092e\u0948\u0902 \u0932\u0902\u092c\u0947 \u0938\u092e\u092f \u0924\u0915 \u0935\u0939\u0940\u0902 \u0930\u0941\u0915\u0924\u093e \u0930\u0939\u093e \u0964",
+        "timestamp": "2025-05-12T17:56:06.354025"
+    },
+    {
+        "scenario": "I was late due to traffic congestion",
+        "ranked": 3,
+        "urgency": "high",
+        "excuse": "Traffic was a nightmare on my way to work. The roads were clogged with other commuters and construction delays. It took me much longer than expected to arrive.",
+        "timestamp": "2025-05-12T17:57:03.081239"
+    },
+    {
+        "scenario": " I was missed the files due to isiue  ",
+        "ranked": 8,
+        "urgency": "high",
+        "excuse": "Missed the files due to technical issues with my computer, caused by a sudden power surge. Couldn't access them in time for the deadline.",
+        "timestamp": "2025-05-12T19:58:30.222657"
+    },
+    {
+        "scenario": " I was missed the files due to isiue  ",
+        "ranked": 5,
+        "urgency": "high",
+        "excuse": "Missed the files due to technical issues with my computer. Couldn't access them in time.",
+        "timestamp": "2025-05-12T20:17:40.525012"
+    },
+    {
+        "scenario": " I was missed the files due to isiue  ",
+        "ranked": 2,
+        "urgency": "high",
+        "excuse": "\u092e\u0947\u0930\u0947 \u0915\u0902\u092a\u094d\u092f\u0942\u091f\u0930 \u0915\u0947 \u0938\u093e\u0925 \u0924\u0915\u0928\u0940\u0915\u0940 \u092e\u0941\u0926\u094d\u0926\u094b\u0902 \u0915\u0947 \u0915\u093e\u0930\u0923 \u092b\u093c\u093e\u0907\u0932\u094b\u0902 \u0915\u094b \u092e\u093f\u0938 \u0915\u093f\u092f\u093e.",
+        "timestamp": "2025-05-12T20:18:40.722261"
+    }
+]
